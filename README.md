@@ -1,7 +1,7 @@
 
 
 <!--
-**kareem-01/kareem-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Eng.Yassien Ehab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 ### Hi there 👋
@@ -13,22 +13,20 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- 📫 How to reach me **kareemesam321@gmail.com**
+- 📫 How to reach me **eng.yassienehab@gmail.com**
 
 -->
-<h1 align="center">Hi 👋, I'm kareem</h1>
-<h3 align="center">A passionate Android developer from Egypt</h3>
+<h1 align="center">Hi 👋, I'm Yassien</h1>
+<h3 align="center">A passionate Software Engineer from Egypt</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kareem-01" alt="kareem-01" /></a> </p>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-- 🔭 I’m currently working on **my graduation project**
+- 🔭 I’m currently Studying on **Master'S DEGREE IN COMPUTER SCIENCE AND AI**
 
-- 🌱 I’m currently learning **AR in Android**
+- 🌱 I’m currently learning **MOBILE APP DEVELOPMENT DEEP DIVE LEVEL**
 
-- 🤝 I’m looking for help with **SceneView and ArCore**
-
-- 💬 Ask me about **Android , Kotlin**
+- 💬 Ask me about **Android , Kotlin , AI , ACHINE LEARNING , NEURAL NETWORK , COMPUTER VISION , UI/UX , WORDPRESS**
 
 
 <h3 align="left">Connect with me:</h3>
